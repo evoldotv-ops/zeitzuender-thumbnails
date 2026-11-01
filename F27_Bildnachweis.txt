@@ -478,11 +478,6 @@ Quelle: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1986-0805-
 Urheber: Jan Peter Kasper
 Lizenz: CC BY-SA 3.0 de
 
-Bundesarchiv Bild 183-1984-0520-014, Detlef Gerstenberg.jpg
-Quelle: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1984-0520-014%2C_Detlef_Gerstenberg.jpg
-Urheber: Wolfgang Thieme
-Lizenz: CC BY-SA 3.0 de
-
 Bundesarchiv Bild 183-1986-0116-011, Leipzig, Grimmaische Straße, "Fürstenhauserker".jpg
 Quelle: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1986-0116-011%2C_Leipzig%2C_Grimmaische_Stra%C3%9Fe%2C_%22F%C3%BCrstenhauserker%22.jpg
 Urheber: Friedrich Gahlbeck
@@ -514,6 +509,6 @@ Urheber: Thomas Lehmann
 Lizenz: CC BY-SA 3.0 de
 
 KI-NACHSTELLUNGEN
-29 Bilder mit Magnific Nano Banana 2. Keine historischen Originalaufnahmen.
+30 Bilder mit Magnific Nano Banana 2. Keine historischen Originalaufnahmen.
 Nachstellungen sind im Video mit KI-Nachstellung markiert. Auch die Kachelszene ist nachgestellt.
 Erzählstimme synthetisch.
