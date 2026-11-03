@@ -99,12 +99,6 @@ Urheber: Jürgen Ludwig
 Lizenz: CC BY-SA 3.0 de
 Lizenztext: https://creativecommons.org/licenses/by-sa/3.0/de/
 
-Bundesarchiv Bild 183-N0601-0022, Erfurt, Gelände der iga, Spielplatz.jpg
-Quelle: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0601-0022%2C_Erfurt%2C_Gel%C3%A4nde_der_iga%2C_Spielplatz.jpg
-Urheber: Jürgen Ludwig
-Lizenz: CC BY-SA 3.0 de
-Lizenztext: https://creativecommons.org/licenses/by-sa/3.0/de/
-
 Bundesarchiv Bild 183-1985-0909-009, Erfurt, Parkbibliothek, Iga-Gelände.jpg
 Quelle: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1985-0909-009%2C_Erfurt%2C_Parkbibliothek%2C_Iga-Gel%C3%A4nde.jpg
 Urheber: Hirndorf, Heinz
@@ -567,6 +561,12 @@ Lizenztext: https://creativecommons.org/licenses/by-sa/3.0/de/
 Berlin, Palast der Republik -- um 1990 -- 1.jpg
 Quelle: https://commons.wikimedia.org/wiki/File:Berlin%2C_Palast_der_Republik_--_um_1990_--_1.jpg
 Urheber: Dietmar Rabich
+Lizenz: CC BY-SA 4.0
+Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
+
+Egapark Zentrales Blumenbeet 1.jpg
+Quelle: https://commons.wikimedia.org/wiki/File:Egapark_Zentrales_Blumenbeet_1.jpg
+Urheber: P6G47TG
 Lizenz: CC BY-SA 4.0
 Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 
