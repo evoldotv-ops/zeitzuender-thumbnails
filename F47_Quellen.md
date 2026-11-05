@@ -1,0 +1,29 @@
+# F47 · DDR-Alltag: Warum Wegwerfen oft keine Lösung war
+
+Recherche und Prüfung: 5./6. November 2026. Termin: 22. November 2026, 17:00 Europe/Zurich. Ausgabe: 3840 × 2160, 30 Bilder pro Sekunde.
+
+## Quellen und Reichweite
+
+1. [Deutsches Technikmuseum: Reparieren, Warten, Improvisieren](https://technikmuseum.berlin/assets/Technikmuseum/Download/Sammlung/Publikationen/Schriftenreihe/Reparieren/technikmuseum-publikationen-reparieren-warten-improvisieren.pdf). Sammelband 2023. RG 28 und Bedienhinweise im Abschnitt um Druckseite 40; Reinhild Kreis über sozialistische Selbsthilfe um Druckseiten 153–159. Pflege, Konstruktion und Reparatur unterscheiden. Kein Schluss von erhaltenen Geräten auf Ausfallquoten. PDF lokal gesichert.
+2. [DDR Museum: Reparaturgesellschaft DDR?](https://www.ddr-museum.de/de/veranstaltungen/archiv/reparaturgesellschaft-ddr). Veranstaltung vom 22.10.2025 mit Kathrin Tschida. Das Skript bezieht sich auf die veröffentlichten Veranstaltungsangaben, nicht auf ein ungeprüftes vollständiges Vortragsprotokoll.
+3. [DDR Museum: Garage](https://www.ddr-museum.de/de/blog/archive/garage). Museumsaufbau aus verkürzter originaler Garagenfront und neuer Rahmenkonstruktion; Schwalbe KR 51/2, Produktion 1980–1986. Die spätere Schwalbe-Bebilderung im Video wird nicht als Aufnahme dieser Garage ausgegeben. Pauschale Blogbehauptung, jede Person sei Heimwerker gewesen, ausdrücklich nicht übernommen.
+4. [DDR Museum: Haushaltpackung 1022210](https://www.ddr-museum.de/de/objects/1022210). Schraubenverpackung als spätere Aufbewahrung; datiert ca. 1954–1964; erhaltene Inhalte einschließlich Valvo-Röhre. Im Film eigene vereinfachte Kistengrafik, keine Kopie des Museumsfotos.
+5. [DDR Museum: Selbsthilfe-Katalog 1022544](https://www.ddr-museum.de/de/objects/1022544). Vierte Auflage 1976, Redaktionsschluss 15.11.1975. Materialbedarf, Arbeitszeiten und Vergütung von Eigenleistungen. Kein beliebiger damaliger Vergütungsbetrag wird erfunden.
+6. [Bundesstiftung Aufarbeitung: DDR-Handbuch, Reparaturstützpunkte 1975](https://www.kommunismusgeschichte.de/ddr-a-z?tx_sedaktuelles_pi1%5Baction%5D=show&tx_sedaktuelles_pi1%5Bcontroller%5D=Aktuelles&tx_sedaktuelles_pi1%5Bwikipageid%5D=sbzvonabisz%3A1975%3Areparaturstuetzpunkte). S. 726. Zeitgenössische westdeutsche Darstellung, keine heutige Statistik. Werkzeugausleihe und teils Werkräume.
+7. [Regionalmuseum Bad Frankenhausen: Schuhmacherhandwerk](https://www.regionalmuseum-bfh.de/schuhmacherhandwerk). Private und staatliche Angebote sowie HO/Konsum. Eisenhüttenstädter Werkstattfoto wird mit seinem eigenen Ort und Datum gezeigt.
+8. [Bundesarchiv Bild 183-70900-0001: Magdeburg](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-70900-0001,_Magdeburg,_Selbst-Reparaturwerkstatt_f%C3%BCr_Bastler.jpg). 16.02.1960, Wilhelm Biscan. Laut zeitgenössischer ADN-Beschreibung zehn Arbeitsplätze, 40 Pfennig je Stunde, Nationale Front und unterstützender Maschinenbaubetrieb; Horst Birgmann als abgebildeter Schlosser. Angaben gelten für diesen Ort. Werbenden Meldungston als solchen eingeordnet.
+9. [Bundesarchiv Bild 183-L0524-0353: Uhrenwerkstatt](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-L0524-0353,_Neubrandenburg,_Reparaturwerkstatt_f%C3%BCr_Wecker_und_Gro%C3%9Fuhren.jpg). Neubrandenburg, 28.01.1972, Benno Bartocha.
+10. [Bundesarchiv Bild 183-N0418-0002: Komplexannahme](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0418-0002,_Leipzig,_moderne_Komplexannahmestelle.jpg). Leipzig-Südwest, 18.04.1974. Weitere verwendete Dienstleistungsbilder einzeln im Bildnachweis.
+11. [Zivilgesetzbuch der DDR 1975](https://www.verfassungen.de/ddr/zivilgesetzbuch75.htm). Historischer Gesetzestext, insbesondere §§ 164–175. Anspruch und tatsächliche Durchführung werden getrennt. Keine heutige Rechtsberatung.
+12. [Museumsverband Brandenburg: Eigenbau-Rasenmäher 1979](https://www.museen-brandenburg.de/seitenvorlagen/objekte/rasenmaeher). Dokumentationszentrum Alltagskultur Eisenhüttenstadt. Herkunft der Räder, des Motors, Kabels und Messers; nach der Wende zunächst abgestellt, später Museum. Eigene schematische Zeichnungen, keine technische Bauanleitung.
+13. [DDR Museum: SERO-Aufkleber](https://www.ddr-museum.de/de/objects/1015494). Bezeichnung und Sammelwerbung. Eigene Symbole und separat lizenzierte Bundesarchivfotos statt Museumsmotiv.
+14. [Deutschlandfunk Kultur: Wie hieß das doch gleich?](https://www.deutschlandfunkkultur.de/wie-hiess-das-doch-gleich-104.html). 22.08.2005, Claus Stephan Rehfeld. Nur kurze Begriffsdefinition Komplexannahmestelle verwendet; keine Übernahme der satirischen Reportagestruktur.
+15. [DDR Museum: Wohnen im Altbau](https://www.ddr-museum.de/de/blog/2020/wohnen-im-altbau). Kontext zur Werkzeugausleihe und Eigenleistungen, ergänzende Kontrolle zum Handbuch/Katalog.
+
+## Bild- und Darstellungsgrenzen
+
+Kachel und erste 3,1 Sekunden: mit Magnific erzeugte fiktive ältere Menschen, kein historisches Foto. Stimme synthetisch (coldcases). Historische Archivfotos und spätere Objektaufnahmen sind im Bild datiert. Frühere Kriegs-/Kolonialaufnahmen, westdeutsche Grundig-Bilder und die SERO-Protestaufnahme von 1990 werden nicht als DDR-Reparaturalltag verwendet.
+
+Eigene statische Schemata und animierte Sachgrafiken erklären Abläufe. Die sechs statischen Zeichnungen sind zusätzlich unter [F47_Sachgrafiken.pdf](https://raw.githubusercontent.com/evoldotv-ops/zeitzuender-thumbnails/main/F47_Sachgrafiken.pdf) veröffentlicht. Sie enthalten keine realen Kundendokumente, gemessenen Arbeitszeiten oder maßgetreuen Baupläne.
+
+4K bezeichnet das Ausgabeformat. Die überlieferte Detailauflösung der Archivfotos bleibt quellenabhängig. Vollständige Foto-Urheber, Originaldateien und Lizenzen: [F47_Bildnachweis.txt](https://raw.githubusercontent.com/evoldotv-ops/zeitzuender-thumbnails/main/F47_Bildnachweis.txt).
